@@ -34,7 +34,7 @@ export class DriverComponent implements OnInit {
   }
   //'poz':this.vozac.name=="..."
   stil(){
-    return {'color': 'black'}
+    return {'color': 'red'}
   }
   stil2(){
     return {'background-color': 'blue'}
